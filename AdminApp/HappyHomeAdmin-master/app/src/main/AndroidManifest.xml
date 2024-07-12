@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.happyhome">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/smile1"
+        android:roundIcon="@drawable/smile1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:label="@string/app_name">
+        <activity android:name=".Cerificate_view"></activity>
+        <activity android:name=".assignwork_final" />
+        <activity android:name=".assignwork_workdetail" />
+        <activity android:name=".assignwork_techdetails" />
+        <activity android:name=".assign_work" />
+        <activity android:name=".feedback2" />
+        <activity android:name=".certiitem" />
+        <activity android:name=".custdetail" />
+        <activity android:name=".approvetech" />
+        <activity android:name=".approve_tech_details" />
+        <activity android:name=".feedback" />
+        <activity android:name=".home" />
+        <activity android:name=".cust_group" />
+        <activity android:name=".cust_detail" />
+        <activity android:name=".tech_group" />
+        <activity android:name=".tech_detail" />
+        <activity android:name=".approve_tech" />
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="uname">Username</string>
+    <string name="upass">Password</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="dob">D.O.B</string>
+    <string name="fname">Full Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signup">Sign Up</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="register">New User ? Click Here To Login </string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="happy_homes">Happy Homes</string>
+    <string name="electrican">Electrican</string>
+    <string name="carpentar">Carpenter</string>
+    <string name="history">History</string>
+    <string name="payment_history">Payment History</string>
+
+    <string name="plumber">Plumber</string>
+    <string name="mechanic">Mechanic</string>
+    <string name="pestcontrol">Pest Control</string>
+    <string name="painter">Painter</string>
+
+    <string name="problem_post">Problem Post</string>
+    <string name="problem_cat">Category</string>
+    <string name="problem_desc">Problem Description</string>
+    <string name="technician_name">Technician Name</string>
+    <string name="write_feedback">Write Feedback Here</string>
+    <string name="select">Select</string>
+    <string name="post">Post</string>
+    <string name="send">Send</string>
+    <string name="click_here_to_register">Click Here To Register</string>
+    <string-array name="category">
+        <item>Carpenter</item>
+        <item>Plumber</item>
+        <item>Painter</item>
+        <item>Mechanic</item>
+        <item>Electrician</item>
+        <item>Pest Control</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="todo">TODO</string>
+    <string name="payment">Payment</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+
+    <string name="card_number">Card Number</string>
+    <string name="cvc">CVC</string>
+    <string name="amount">Amount</string>
+    <string name="token">Token</string>
+
+    <string name="problem_name">Problem Name</string>
+    <string name="button">Button</string>
+    <string name="pay">Pay</string>
+    <string name="title_activity__home">Activity_Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_home">activity_home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
